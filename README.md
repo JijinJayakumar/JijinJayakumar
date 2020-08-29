@@ -19,6 +19,10 @@
 ### Latest Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deno — REST API with Deno and MySQL](https://medium.com/codewebapp/deno-rest-api-with-deno-and-mysql-2fdeb57ef1f8?source=rss----b8757f42a5d3---4)
+- [PodcastPlayer with Vuejs & vuex for beginners](https://medium.com/codewebapp/podcastplayer-with-vuejs-vuex-for-beginners-a0e6d02b9528?source=rss----b8757f42a5d3---4)
+- [Learn to Create a price Tracing app with JavaScript(Node.JS)](https://medium.com/codewebapp/learn-to-create-a-price-tracing-app-with-javascript-node-js-bf4c9b6cc7ec?source=rss----b8757f42a5d3---4)
+- [Yet another What exactly IS an API? — for beginners](https://medium.com/codewebapp/yet-another-what-exactly-is-an-api-for-beginners-347e5e4deaef?source=rss----b8757f42a5d3---4)
 <!-- BLOG-POST-LIST:END -->
 
 ### Skills/Preferred Tech stacks
