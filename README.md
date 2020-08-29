@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer, teacher and speaker from Kerala, India </h3>
 
 <p>
-- 🌱 I’m currently learning **WebAutomation,Streaming,AI-VUI(Voice User Interface)**
+- 🌱 I’m currently learning : WebAutomation, Streaming, AI-VUI (Voice User Interface)
 
 - 📝 I regulary write articles on [medium](https://medium.com/codewebapp/)
 
