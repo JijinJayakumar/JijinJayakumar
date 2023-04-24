@@ -1,24 +1,21 @@
 <h1  align="center">Hi 👋, I'm Jijin</h1>
 <h3  align="center">A passionate web developer, teacher and speaker from Kerala, India </h3>
 
-
-<p>
-
-- 🌱 I’m currently learning : WebAutomation, Streaming, AI-VUI (Voice User Interface) 
-
-- 📝 I regulary write articles on [medium](https://medium.com/codewebapp/)
-
-- 💬 Ask me about **Vue.js,PHP,NODEJS,GO,Web**
-- ⚡ Fun fact **Chai over Coffee**
-- 😄 Pronouns: **G-jin**
-
-  
-
-- 📫 How to reach me: <a  href="https://linkedin.com/in/jijinjayakumar"  target="blank"><img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>  <a  href="https://mailhide.io/e/kJ1DC"  onclick="mailhidepopup=window.open('https://mailhide.io/e/kJ1DC','mailhidepopup','width=580,height=635'); return false;"><img  src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-
-  
-
-</p>
+<div style="display:flex;align-items:center;">
+  <div style="flex:1;">
+    <ul>
+      <li>🌱 I’m currently learning: Web Automation, Streaming, AI-VUI (Voice User Interface)</li>
+      <li>📝 I regularly write articles on <a href="https://medium.com/codewebapp/">medium</a></li>
+      <li>💬 Ask me about <strong>Vue.js, PHP, NODEJS, GO, Web</strong></li>
+      <li>⚡ Fun fact: <strong>Chai over Coffee</strong></li>
+      <li>😄 Pronouns: <strong>G-jin</strong></li>
+      <li>📫 How to reach me: <a href="https://linkedin.com/in/jijinjayakumar" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://mailhide.io/e/kJ1DC" onclick="mailhidepopup=window.open('https://mailhide.io/e/kJ1DC','mailhidepopup','width=580,height=635'); return false;"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a></li>
+    </ul>
+  </div>
+  <div style="flex:1;text-align:center;">
+    <a href="https://app.daily.dev/Jijin"><img src="https://api.daily.dev/devcards/457d424467d84d5eafcc1132aa8ad469.png?r=eek" width="200" alt="Jijin Jayakumar's Dev Card"/></a>
+  </div>
+</div>
 
   
 
