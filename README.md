@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,vue,nodejs,deno,js,ts,nuxtjs,mysql,postgres,mongodb,redis,prisma,firebase,supabase,graphql,tailwind,svelte,express,nestjs,react,laravel,jquery,angular,git,docker,gcp,aws,vscode,electron,go,dart,wasm,solidity,html,css" />
+    <img src="https://skillicons.dev/icons?i=php,vue,nodejs,deno,js,ts,nuxtjs,mysql,postgres,mongodb,redis,prisma,firebase,supabase,graphql,tailwind,svelte,express,nestjs,react,laravel,jquery,angular,git,docker,gcp,aws,vscode,electron,go,dart,wasm,solidity,html,css,socket" />
   </a>
 </p>
 
