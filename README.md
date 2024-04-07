@@ -13,7 +13,7 @@
     </ul>
   </div>
   <div style="flex:1;text-align:center;">
-    <a href="https://app.daily.dev/Jijin"><img src="https://api.daily.dev/devcards/v2/cdf5134b0878409ea5155eb494d7cc1d.png?type=default&r=4nd" width="356" alt="Jijin Jayakumar's Dev Card"/></a>
+    <a href="https://app.daily.dev/Jijin"><img src="https://api.daily.dev/devcards/v2/cdf5134b0878409ea5155eb494d7cc1d.png?type=default&r=4nd" width="200" alt="Jijin Jayakumar's Dev Card"/></a>
   </div>
 </div>
 
